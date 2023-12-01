@@ -1,0 +1,15 @@
+C:\Users\thoma\OneDrive\Documents\code\advent_of_code_2023\test_zone\bin\Debug\net8.0\test_zone.exe
+C:\Users\thoma\OneDrive\Documents\code\advent_of_code_2023\test_zone\bin\Debug\net8.0\test_zone.deps.json
+C:\Users\thoma\OneDrive\Documents\code\advent_of_code_2023\test_zone\bin\Debug\net8.0\test_zone.runtimeconfig.json
+C:\Users\thoma\OneDrive\Documents\code\advent_of_code_2023\test_zone\bin\Debug\net8.0\test_zone.dll
+C:\Users\thoma\OneDrive\Documents\code\advent_of_code_2023\test_zone\bin\Debug\net8.0\test_zone.pdb
+C:\Users\thoma\OneDrive\Documents\code\advent_of_code_2023\test_zone\obj\Debug\net8.0\test_zone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\OneDrive\Documents\code\advent_of_code_2023\test_zone\obj\Debug\net8.0\test_zone.AssemblyInfoInputs.cache
+C:\Users\thoma\OneDrive\Documents\code\advent_of_code_2023\test_zone\obj\Debug\net8.0\test_zone.AssemblyInfo.cs
+C:\Users\thoma\OneDrive\Documents\code\advent_of_code_2023\test_zone\obj\Debug\net8.0\test_zone.csproj.CoreCompileInputs.cache
+C:\Users\thoma\OneDrive\Documents\code\advent_of_code_2023\test_zone\obj\Debug\net8.0\test_zone.sourcelink.json
+C:\Users\thoma\OneDrive\Documents\code\advent_of_code_2023\test_zone\obj\Debug\net8.0\test_zone.dll
+C:\Users\thoma\OneDrive\Documents\code\advent_of_code_2023\test_zone\obj\Debug\net8.0\refint\test_zone.dll
+C:\Users\thoma\OneDrive\Documents\code\advent_of_code_2023\test_zone\obj\Debug\net8.0\test_zone.pdb
+C:\Users\thoma\OneDrive\Documents\code\advent_of_code_2023\test_zone\obj\Debug\net8.0\test_zone.genruntimeconfig.cache
+C:\Users\thoma\OneDrive\Documents\code\advent_of_code_2023\test_zone\obj\Debug\net8.0\ref\test_zone.dll
