@@ -1,0 +1,4 @@
+C:\Users\thoma\Documents\code\Advent Of Code 23\test_zone\obj\Debug\net7.0\test_zone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Documents\code\Advent Of Code 23\test_zone\obj\Debug\net7.0\test_zone.AssemblyInfoInputs.cache
+C:\Users\thoma\Documents\code\Advent Of Code 23\test_zone\obj\Debug\net7.0\test_zone.AssemblyInfo.cs
+C:\Users\thoma\Documents\code\Advent Of Code 23\test_zone\obj\Debug\net7.0\test_zone.csproj.CoreCompileInputs.cache

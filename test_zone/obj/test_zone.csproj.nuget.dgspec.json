@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thoma\\OneDrive\\Documents\\code\\advent_of_code_2023\\test_zone\\test_zone.csproj": {}
+    "C:\\Users\\thoma\\Documents\\code\\Advent Of Code 23\\test_zone\\test_zone.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thoma\\OneDrive\\Documents\\code\\advent_of_code_2023\\test_zone\\test_zone.csproj": {
+    "C:\\Users\\thoma\\Documents\\code\\Advent Of Code 23\\test_zone\\test_zone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thoma\\OneDrive\\Documents\\code\\advent_of_code_2023\\test_zone\\test_zone.csproj",
+        "projectUniqueName": "C:\\Users\\thoma\\Documents\\code\\Advent Of Code 23\\test_zone\\test_zone.csproj",
         "projectName": "test_zone",
-        "projectPath": "C:\\Users\\thoma\\OneDrive\\Documents\\code\\advent_of_code_2023\\test_zone\\test_zone.csproj",
+        "projectPath": "C:\\Users\\thoma\\Documents\\code\\Advent Of Code 23\\test_zone\\test_zone.csproj",
         "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thoma\\OneDrive\\Documents\\code\\advent_of_code_2023\\test_zone\\obj\\",
+        "outputPath": "C:\\Users\\thoma\\Documents\\code\\Advent Of Code 23\\test_zone\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\thoma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\thoma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

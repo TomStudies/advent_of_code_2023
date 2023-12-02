@@ -37,9 +37,8 @@ foreach (string line in lines)
         foundInt = i;
       }
     }
-    // Replace the earliest found word with its numeric counterpart
-    digitizedLine = digitizedLine.Replace(foundWord, foundInt.ToString());
-    // Check if any more left to be digitized
+    // Replace the earliest found word with its numeric counterpart up to the second to last character
+    digitizedLine = digitizedLine.Replace(foundWord.Substring(0, foundWord.Length - 1), foundInt.ToString());
     for (int i = 0; i < 10; i++)
     {
       int firstIdx = digitizedLine.IndexOf(numWords[i]);
