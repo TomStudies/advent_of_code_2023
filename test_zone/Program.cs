@@ -37,9 +37,9 @@ for(int y = 0; y < lines.Length; y++)
             {
               continue;
             }
-            Console.WriteLine($"Checking [{checkY}, {checkX}]");
             if(Regex.Match(lines[checkY][checkX].ToString(), @"[^\d\.\n\r]").Success)
             {
+              Console.WriteLine($"Found {lines[checkY][checkX]} at [{checkY}, {checkX}] for {partNum}");
               sum += Int32.Parse(partNum);
               foundFlag = true;
               break;
